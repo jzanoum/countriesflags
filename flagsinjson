@@ -3,30 +3,30 @@
     "id": 0,
     "country": "United States",
     "country_flag": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png",
-    "curreny": "USD"
+    "currency": "USD"
   },
   {
     "id": 1,
     "country": "United Kingdom",
     "country_flag": "https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png",
-    "curreny": "GBP"
+    "currency": "GBP"
   },
   {
     "id": 2,
     "country": "Canada",
     "country_flag": "https://www.countryflags.com/wp-content/uploads/canada-flag-png-large.png",
-    "curreny": "CAD"
+    "currency": "CAD"
   },
    {
     "id": 3,
     "country": "Europe",
     "country_flag": "https://www.countryflags.com/wp-content/uploads/europe-flag-jpg-xl-1536x1024.jpg",
-    "curreny": "EUR"
+    "currency": "EUR"
   },
    {
     "id": 4,
     "country": "India",
     "country_flag": "https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png",
-    "curreny": "INR"
+    "currency": "INR"
   }
 ]
